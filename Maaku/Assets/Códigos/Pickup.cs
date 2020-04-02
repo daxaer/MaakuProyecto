@@ -19,6 +19,11 @@ public class Pickup : MonoBehaviour
             triggered = true;
     }
 
+    void OnTriggerExit2D(Collider2D collision)
+    {
+            triggered = false;
+    }
+
     // Update is called once per frame
     void Update()
     {
