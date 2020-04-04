@@ -9,13 +9,13 @@ public class PlayerControl : MonoBehaviour
     public float moveSpeed = 4.0f, jumpSpeed = 10.0f;
     bool triggered = false;
 
-    private void Start()
+    void Start()
     {
         //gameObject.GetComponent<SpriteRenderer>().sortingOrder = 1;
         anim = GetComponent<Animator>();
     }
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
         Movement();
 
