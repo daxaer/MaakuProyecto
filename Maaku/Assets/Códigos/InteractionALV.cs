@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class InteractionALV : MonoBehaviour
 {
     public GameObject closet;
+    public GameObject Cofre;
     public Text dialogo;
     public GameObject boton;
     public GameObject itemButton;
@@ -14,14 +15,13 @@ public class InteractionALV : MonoBehaviour
 
     int countInteraction = 0;
     bool triggered = false;
-
+    Vector3 posDefault = new Vector3(0, 15, 0);
     void Start()
     {
-        inventory = GameObject.FindGameObjectWithTag("Player").GetComponent<Inventory>();
+        inventory = GameObject.FindGameObjectWithTag("Player").GetComponent<Inventory>();       
         //boton.GetComponent<RectTransform>().localPosition = new Vector3(0.0f, 0.0f, 0.0f);
-        boton.SetActive(false);
     }
-    void OnTriggerEnter2D(Collider2D collision)
+    /*void OnTriggerEnter2D(Collider2D collision)
     {
         colisionALV = collision;
         triggered = true;
@@ -32,13 +32,24 @@ public class InteractionALV : MonoBehaviour
         boton.GetComponent<RectTransform>().anchorMin = viewportPoint;
         boton.GetComponent<RectTransform>().anchorMax = viewportPoint;
 
+        //print(boton.GetComponent<RectTransform>().anchorMax);
+
         boton.SetActive(true);
+    }*/
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        colisionALV = collision;
+        triggered = true;
+        Vector3 posObjeto = new Vector3(collision.transform.position.x, 3.5f, 0);
+        boton.transform.position = posObjeto;
     }
+
     void OnTriggerExit2D(Collider2D collision)
     {
         colisionALV = collision;
         triggered = false;
-        boton.SetActive(false);
+        boton.transform.position = posDefault;
     }
 
     void CheckInventory()
@@ -83,6 +94,24 @@ public class InteractionALV : MonoBehaviour
             {
                 dialogo.text = "";
             }
+
+            //------------------------------------------Cofre-------------------------------------------
+
+            if (colisionALV.gameObject.name == "CofreClosed") //Abre el cofre
+            {
+                Cofre.GetComponent<SpriteRenderer>().sprite = Resources.Load<Sprite>("Muebles/CofreOpen");
+                colisionALV.gameObject.name = "CofreOpen";
+            }
+            else if(colisionALV.gameObject.name == "CofreOpen")
+            {
+                dialogo.text = "-Obtuve a Teddy...";
+                itemButton.GetComponent<Image>().sprite = Resources.Load<Sprite>("Items/Teddy");
+                colisionALV.gameObject.name = "CofreOpen*";
+                CheckInventory();
+            }
+
+            //------------------------------------------------------------------------------------------------------
+
 
         }
 
