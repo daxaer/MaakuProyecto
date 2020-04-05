@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class InteractionALV : MonoBehaviour
 {
@@ -18,24 +19,8 @@ public class InteractionALV : MonoBehaviour
     Vector3 posDefault = new Vector3(0, 15, 0);
     void Start()
     {
-        inventory = GameObject.FindGameObjectWithTag("Player").GetComponent<Inventory>();       
-        //boton.GetComponent<RectTransform>().localPosition = new Vector3(0.0f, 0.0f, 0.0f);
+        inventory = GameObject.FindGameObjectWithTag("Player").GetComponent<Inventory>();      
     }
-    /*void OnTriggerEnter2D(Collider2D collision)
-    {
-        colisionALV = collision;
-        triggered = true;
-        Vector2 pos = this.transform.position;  // get the game object position
-        Vector2 viewportPoint = Camera.main.WorldToViewportPoint(pos);  //convert game object position to ViewportPoint
-
-        // set MIN and MAX Anchor values(positions) to the same position (ViewportPoint)
-        boton.GetComponent<RectTransform>().anchorMin = viewportPoint;
-        boton.GetComponent<RectTransform>().anchorMax = viewportPoint;
-
-        //print(boton.GetComponent<RectTransform>().anchorMax);
-
-        boton.SetActive(true);
-    }*/
 
     void OnTriggerEnter2D(Collider2D collision)
     {
@@ -112,6 +97,10 @@ public class InteractionALV : MonoBehaviour
 
             //------------------------------------------------------------------------------------------------------
 
+            if (colisionALV.gameObject.name == "Puerta")
+            {
+                SceneManager.LoadScene("Patio");
+            }
 
         }
 
