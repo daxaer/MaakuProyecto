@@ -1,0 +1,1142 @@
+fileFormatVersion: 2
+guid: c3bf06f3d86f82e45ab608534032d297
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6987449994117899991
+    second: RMaaku0
+  - first:
+      213: 3877682578444066161
+    second: RMaaku1
+  - first:
+      213: -797132095295667919
+    second: RMaaku2
+  - first:
+      213: 9138680992456298697
+    second: RMaaku3
+  - first:
+      213: 4580467008642318063
+    second: RMaaku4
+  - first:
+      213: 8110715481174655968
+    second: RMaaku5
+  - first:
+      213: -766614480338474566
+    second: RMaaku6
+  - first:
+      213: 2300706306438068117
+    second: RMaaku7
+  - first:
+      213: 7057966272130278106
+    second: RMaaku8
+  - first:
+      213: 5698154232513522542
+    second: RMaaku9
+  - first:
+      213: 7692135294293663105
+    second: RMaaku10
+  - first:
+      213: 8902087032847148318
+    second: RMaaku11
+  - first:
+      213: 26568291293938164
+    second: LMaaku11
+  - first:
+      213: -7635742322962993168
+    second: LMaaku10
+  - first:
+      213: -1529195267532711916
+    second: LMaaku9
+  - first:
+      213: 7715119148120049711
+    second: LMaaku8
+  - first:
+      213: -5101937685391343503
+    second: LMaaku7
+  - first:
+      213: -3768186292566661156
+    second: LMaaku6
+  - first:
+      213: 3277202469713978442
+    second: LMaaku5
+  - first:
+      213: -5451489802063153662
+    second: LMaaku4
+  - first:
+      213: 8386098736993283832
+    second: LMaaku3
+  - first:
+      213: 37049939587858058
+    second: LMaaku2
+  - first:
+      213: -5039621452330976642
+    second: LMaaku1
+  - first:
+      213: 1309383178276142581
+    second: LMaaku0
+  - first:
+      213: -3285964962887598128
+    second: BMaaku0
+  - first:
+      213: -4039075363296842681
+    second: BMaaku1
+  - first:
+      213: 8144695130297668774
+    second: BMaaku2
+  - first:
+      213: -85727717617933792
+    second: BMaaku3
+  - first:
+      213: -2318900554349172045
+    second: SpritesMaaku_28
+  - first:
+      213: -3311493598351996922
+    second: SpritesMaaku_30
+  - first:
+      213: 6453337478985044066
+    second: SpritesMaaku_30
+  - first:
+      213: -6565059667015637554
+    second: SpritesMaaku_31
+  - first:
+      213: -4971310976448004647
+    second: SpritesMaaku_32
+  - first:
+      213: -6029470809046941845
+    second: I-RightMaaku0
+  - first:
+      213: -5328688945650450046
+    second: SpritesMaaku_34
+  - first:
+      213: -6572354156423112923
+    second: SpritesMaaku_35
+  - first:
+      213: 4982594011219427762
+    second: SpritesMaaku_36
+  - first:
+      213: 3409624960372003104
+    second: SpritesMaaku_37
+  - first:
+      213: 7694361378613789041
+    second: SpritesMaaku_38
+  - first:
+      213: -6234512415285663628
+    second: SpritesMaaku_39
+  - first:
+      213: 7729731875538098803
+    second: SpritesMaaku_40
+  - first:
+      213: 4793592751897307182
+    second: SpritesMaaku_41
+  - first:
+      213: 6702929326885377515
+    second: SpritesMaaku_1
+  - first:
+      213: -6987449994117899991
+    second: RMaaku0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RMaaku1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 271
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d11ef92cb40d530800000000000000
+      internalID: 3877682578444066161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 271
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c6dc259400f4f0800000000000000
+      internalID: -797132095295667919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 271
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d8fe91fd13de70800000000000000
+      internalID: 9138680992456298697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 270
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee758bd976119f30800000000000000
+      internalID: 4580467008642318063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 270
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e34da9f1cc0f8070800000000000000
+      internalID: 8110715481174655968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 270
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab921cb11307c55f0800000000000000
+      internalID: -766614480338474566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 270
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597fdbf2230cdef10800000000000000
+      internalID: 2300706306438068117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 270
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad263070eeee2f160800000000000000
+      internalID: 7057966272130278106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 270
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b6b589519e31f40800000000000000
+      internalID: 5698154232513522542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 271
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d5e94ab44ffba60800000000000000
+      internalID: 7692135294293663105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 270
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e152778bdf09a8b70800000000000000
+      internalID: 8902087032847148318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 186
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f14ddc58b36e5000800000000000000
+      internalID: 26568291293938164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 187
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffef5b20d4680690800000000000000
+      internalID: -7635742322962993168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 186
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181186910537cae0800000000000000
+      internalID: -1529195267532711916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 186
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28828f1dfb911b60800000000000000
+      internalID: 7715119148120049711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 186
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1700214d4b64239b0800000000000000
+      internalID: -5101937685391343503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 186
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd761181886b4bbc0800000000000000
+      internalID: -3768186292566661156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 186
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a5586846fa7d20800000000000000
+      internalID: 3277202469713978442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 186
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067c5388ea6854b0800000000000000
+      internalID: -5451489802063153662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 187
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe26ddae58616470800000000000000
+      internalID: 8386098736993283832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 187
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e751849b0a38000800000000000000
+      internalID: 37049939587858058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 187
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7abf5b7dfaaf0ab0800000000000000
+      internalID: -5039621452330976642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMaaku0
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 187
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd7500301ddb2210800000000000000
+      internalID: 1309383178276142581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BMaaku0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df74baa648e562d0800000000000000
+      internalID: -3285964962887598128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BMaaku1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce8a56b5252f7c0800000000000000
+      internalID: -4039075363296842681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BMaaku2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 101
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a41f3d8115c70170800000000000000
+      internalID: 8144695130297668774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BMaaku3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 102
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0226af3581f6fcef0800000000000000
+      internalID: -85727717617933792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 101
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baaf8c5b3c91dfd0800000000000000
+      internalID: -2318900554349172045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I-LeftMaaku0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 102
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608cf3a0e163b02d0800000000000000
+      internalID: -3311493598351996922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 102
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2605e92fe3cde8950800000000000000
+      internalID: 6453337478985044066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 102
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e94a140934e4a0800000000000000
+      internalID: -6565059667015637554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_32
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 102
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddf0dc810b520bb0800000000000000
+      internalID: -4971310976448004647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I-RightMaaku0
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f7b23ae34035ca0800000000000000
+      internalID: -6029470809046941845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 101
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28144f3f2a1bc06b0800000000000000
+      internalID: -5328688945650450046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527965077be4ac4a0800000000000000
+      internalID: -6572354156423112923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 18
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b109b2badab52540800000000000000
+      internalID: 4982594011219427762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 18
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021574426db615f20800000000000000
+      internalID: 3409624960372003104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 18
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17182c948ecd7ca60800000000000000
+      internalID: 7694361378613789041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 18
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478a22b7dff8a79a0800000000000000
+      internalID: -6234512415285663628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 18
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a567adf26854b60800000000000000
+      internalID: 7729731875538098803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesMaaku_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 17
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28e9b6d533468240800000000000000
+      internalID: 4793592751897307182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMaaku0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9291cce5047970f90800000000000000
+      internalID: -6987449994117899991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
